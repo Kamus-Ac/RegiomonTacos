@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28328ccad023c284c9e5fa52f57cd725, type: 3}
+  m_Name: ValidTacoList
+  m_EditorClassIdentifier: Assembly-CSharp::ValidTacoListSO
+  validTacoOrdersList:
+  - {fileID: 11400000, guid: f328e39fe400ae745a81b3577436bb9a, type: 2}
+  - {fileID: 11400000, guid: 3ef163d000a546d4bb3d9f8bddb1dbf4, type: 2}
+  - {fileID: 11400000, guid: 7424ea00baaef794dafd44e452a5bee0, type: 2}
+  - {fileID: 11400000, guid: 6dbc97c147df663428032d7cc6ffc90c, type: 2}
+  - {fileID: 11400000, guid: c4060919fdf8c194ea47ff9a4ddeb978, type: 2}
+  - {fileID: 11400000, guid: 527b1d1f6f2e44c4a84eae7b81824b95, type: 2}

@@ -1,0 +1,289 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3536561018115796100
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4823765573284456199}
+  m_Layer: 0
+  m_Name: TortillaHarinaBlock
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4823765573284456199
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3536561018115796100}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4804690302264749964}
+  - {fileID: 3211036834584528775}
+  - {fileID: 7915393919507220213}
+  - {fileID: 7078027194789247388}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &4468312743674396230
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4823765573284456199}
+    m_Modifications:
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.01279
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0071
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.01131
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5693745
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5693745
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.41930026
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.41930026
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 287.262
+      objectReference: {fileID: 0}
+    - target: {fileID: 1857337460023583611, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_Name
+      value: TortilaHarina (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+--- !u!4 &3211036834584528775 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+  m_PrefabInstance: {fileID: 4468312743674396230}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5773885646482052685
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4823765573284456199}
+    m_Modifications:
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.01279
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.01131
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6807997
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.6807997
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.19108067
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.19108067
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -31.356
+      objectReference: {fileID: 0}
+    - target: {fileID: 1857337460023583611, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_Name
+      value: TortilaHarina
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+--- !u!4 &4804690302264749964 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+  m_PrefabInstance: {fileID: 5773885646482052685}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8122085811706167389
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4823765573284456199}
+    m_Modifications:
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.01279
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0191
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.01131
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.6995647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.6995647
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.10300156
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.10300156
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 343.248
+      objectReference: {fileID: 0}
+    - target: {fileID: 1857337460023583611, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_Name
+      value: TortilaHarina (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1857337460023583611, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+--- !u!4 &7078027194789247388 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+  m_PrefabInstance: {fileID: 8122085811706167389}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9175071512637013812
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 4823765573284456199}
+    m_Modifications:
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.01279
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.0108
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.01131
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.6412268
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.6412268
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.29804054
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.29804054
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -310.142
+      objectReference: {fileID: 0}
+    - target: {fileID: 1857337460023583611, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+      propertyPath: m_Name
+      value: TortilaHarina (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+--- !u!4 &7915393919507220213 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1336801874322078145, guid: 14a7c1ae70de5904cb9a506fb3001b77, type: 3}
+  m_PrefabInstance: {fileID: 9175071512637013812}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a857ebac113bc6488e10b06b57b21d4, type: 3}
+  m_Name: CarneNormal
+  m_EditorClassIdentifier: Assembly-CSharp::KitchenObjectSO
+  prefab: {fileID: 5705136307288895008, guid: 1e58a2273b160d4489917e1c693d3a39, type: 3}
+  sprite: {fileID: 21300000, guid: cefd32161ad2a0543a1eb6089eb10724, type: 3}
+  objectName: Carne Normal
