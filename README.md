@@ -44,4 +44,4 @@ Most of the game's gameplay systems were implemented by me, inspired by CodeMonk
 
 ## Credits
 
-Developed by **Manuel Acosta**, Angel Sustaita and Eric López.
+Developed by **Manuel Acosta**, Angel Sustaita (TobiasJff) and Eric López.
