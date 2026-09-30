@@ -1,3 +1,5 @@
+![Miniatura de Regiomontacos](https://github.com/Kamus-Ac/RegiomonTacos/blob/12eadb9980c224ef8a384c71216f5b72d33bae39/RegiomontacosMiniatura.png)
+
 # RegiomonTacos
 
 A 3D cooking simulation game inspired by Monterrey's street taco culture.
